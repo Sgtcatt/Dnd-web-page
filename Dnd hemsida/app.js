@@ -1,0 +1,8 @@
+class hello {
+    constructor () {
+
+    }
+    onclick () {
+        
+    }
+}

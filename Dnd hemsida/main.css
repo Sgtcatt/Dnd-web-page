@@ -1,0 +1,88 @@
+body {
+    background-image: url("./Pics/Emerald_background.png");
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+footer {
+    background-color: #f5f2d0;
+}
+
+#wrapper {
+    background-color: #f5f2d0;
+    max-width: 80%;
+    margin: auto;
+    margin-top: -50px;
+    margin-bottom: 10px;
+    text-align: left;
+    padding-top: 963px;
+
+}
+
+#wrapper h1#Headline {
+    padding-top: 50px;
+    font-size: 75px;
+    margin-top: -963px;
+    padding-left: 30px;
+}
+
+div#Blackbar {
+    background-color: black;
+}
+
+#wrapper div#Blackbar,
+p {
+    color: white;
+    margin-top: -60px;
+    font-size: 16px;
+    padding-left: 17px;
+    text-align: left;
+}
+
+#wrapper div {
+    text-align: center;
+}
+
+.column {
+    margin: auto;
+    float: left;
+    padding-top: 450px;
+    margin-left: 95px;
+    width: 25%;
+    
+}
+
+.column h1 {
+    margin-top: -65%;
+}
+
+.lying {
+    float: left;
+    width: 620px;
+    margin-top: 90px;
+    padding-top: 190px;
+    margin-left: 95px;
+}
+
+.lying h1 {
+    margin-top: -18%;
+}
+
+#Players {
+    background-color: blue;
+}
+
+#Characters {
+    background-color: black;
+    color: white;
+}
+
+#World {
+    background-color: green;
+}
+
+#Achievements {
+    background-color: hotpink;
+}
+
+#Artwork {
+    background-color: midnightblue;
+}

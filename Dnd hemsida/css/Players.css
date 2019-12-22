@@ -1,0 +1,18 @@
+#pics{
+   display: table;
+   width: 280px;
+}
+#pic {
+    display: table-cell;
+    padding: 10px;
+    height: 780px;
+}
+
+img {
+    width: 280px;
+}
+#pic p {
+    padding-top: 80px;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
